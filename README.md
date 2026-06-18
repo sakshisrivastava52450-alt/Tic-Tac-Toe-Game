@@ -63,3 +63,16 @@ python main.py
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+
+
+
+Features are used in tic tac toe game (Python):
+      Interactive GUI using Tkinter
+      Two-player gameplay
+      Dynamic player name input
+      Sound effects using winsound
+      Score tracking system
+      Winner and draw detection
+      Restart and New Game functionality
+      Responsive and visually appealing interface
+      Event-driven programming in Python
