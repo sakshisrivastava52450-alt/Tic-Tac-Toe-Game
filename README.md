@@ -81,8 +81,7 @@ Features are used in tic tac toe game (Python):
 A modern scientific calculator built using HTML, CSS, and JavaScript.
 
 ## Live Demo
-https://your-username.github.io/repository-name/
-
+https://sakshisrivastava52450-alt.github.io/Tic-Tac-Toe-Game/
 ## Features
 - Basic arithmetic operations
 - Scientific functions
