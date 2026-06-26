@@ -64,7 +64,7 @@ python main.py
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
-Features are used in tic tac toe game (Python):
+## Features are used in tic tac toe game (Python):
       Interactive GUI using Tkinter
       Two-player gameplay
       Dynamic player name input
@@ -75,15 +75,10 @@ Features are used in tic tac toe game (Python):
       Responsive and visually appealing interface
       Event-driven programming in Python
 
-
-# Scientific Calculator Pro
-
-A modern scientific calculator built using HTML, CSS, and JavaScript.
+## 👩‍💻 Author
+**Shreya Srivastava**
 
 ## Live Demo
 https://sakshisrivastava52450-alt.github.io/Tic-Tac-Toe-Game/
-## Features
-- Basic arithmetic operations
-- Scientific functions
-- Responsive design
-- Modern UI
+
+
